@@ -13,7 +13,7 @@ Time is the most valuable asset that you could buy for you and your loved ones. 
 
 
 
-![Cats](https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/120138015_191219049075943_3220058127886053899_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Gm9x4J-kFqYAX_UC2vQ&tp=1&oh=7e81e2c7421de51dea31cf2848f5a9fa&oe=602E4976){: .mx-auto.d-block :}
+![Cats](https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/120138015_191219049075943_3220058127886053899_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Gm9x4J-kFqYAX_UC2vQ&tp=1&oh=7e81e2c7421de51dea31cf2848f5a9fa&oe=602E4976 = 400x400){: .mx-auto.d-block :}
 
 It can also be centered!
 
