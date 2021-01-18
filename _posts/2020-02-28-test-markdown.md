@@ -7,72 +7,14 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+Finance, as we know of, is changing, Blockchain is finding an alternative interpretation to fiat currency and many other traditional systems. The Blockchain industry is at its infancy stage. We believe that as we get older, Cryptocurrency would be a common medium of exchange. It is our educated guess that Cardano has the potential to become a truly decentralized Cryptocurrency and become a market leader. As speculators and supporters of Cardano, we have built this Stake Pool to represent the future guardians and leaders of the CARDANO . Whether you stake or operate a pool, you are directly contributing to the sustainability of the network. 
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Time is the most valuable asset that you could buy for you and your loved ones. It begins with you. Are you in this together with us?. We appreciate your stake to the LUCY pool. In return you will earn ADA as we mint blocks.  
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Cats](https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/120138015_191219049075943_3220058127886053899_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Gm9x4J-kFqYAX_UC2vQ&tp=1&oh=7e81e2c7421de51dea31cf2848f5a9fa&oe=602E4976){: .mx-auto.d-block :}
 
 It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
