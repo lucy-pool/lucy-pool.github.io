@@ -10,5 +10,5 @@ I am Nadiem from the Netherlands and I am the operator of the Lucy Pool. The nam
 
 I you are having a tough day maybe my cats will cheer you up on their Instagram [BEST INSTA EVER](https://www.instagram.com/kingjames_princesslucy) The furry one is **Lucy** and the black one **James**.
 
-![Cats](/asset/img/LucyHelp.jpg){: .mx-auto.d-block.img-circle :}
+![Cats](/assets/img/LucyHelp.jpg){: .mx-auto.d-block.img-circle :}
 And Lucy is very helpful maintaining the Pool ;)
