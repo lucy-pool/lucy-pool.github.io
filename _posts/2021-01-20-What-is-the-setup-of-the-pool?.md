@@ -12,4 +12,4 @@ The pool is run off three reliable, redundant virtual private servers, one block
 
 All nodes run on a modern secure Server OS with ample hardware resources and the setup is scaleble to meet rising demands if need be.
 
-I do not want to bore you with elaborate real-time monitoring data of my pool(maybe i will a a later time), you can just expect that the pool works for you 24/7.
+I do not want to bore you with elaborate real-time monitoring data of my pool (maybe I will at a later time), you can just expect that the pool works for you 24/7.
