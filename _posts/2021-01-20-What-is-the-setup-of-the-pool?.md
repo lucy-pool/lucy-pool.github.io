@@ -3,7 +3,7 @@ layout: post
 title: The setup
 subtitle: What is the setup of the pool?
 cover-img: /assets/img/LucyC.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/JamesL.png
 share-img: /assets/img/LucyC.jpg
 tags:
 ---
